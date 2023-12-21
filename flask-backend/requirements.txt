@@ -1,0 +1,8 @@
+Flask==2.0.3
+Flask_WTF==1.0.1
+jieba==0.42.1
+lxml==4.9.3
+numpy==1.19.5
+PyMySQL==1.0.2
+requests==2.27.1
+WTForms==3.0.0
